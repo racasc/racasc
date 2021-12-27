@@ -1,16 +1,22 @@
-### Hi there 👋
+# Master Data Analytics para la Empresa - EDEM Escuela de Empresarios
+Autor: **Ramón Casans Camp** 
 
-<!--
-**racasc/racasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de la 3ª promoción del Master Data Analytics para la Empresa en EDEM Escuela de Empresarios.
 
-Here are some ideas to get you started:
+Me puedes contactar a traves de:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Linkedin](https://www.linkedin.com/in/ramon-casans-camp-435547196/)
+
+Mail:  raconcasans@gmail.com
+
+
+# Master Data Analytics for the Business - EDEM Escuela de Empresarios
+
+Author: **Ramón Casans Camp**
+
+Student of the 3rd promotion Master Data Analytics for the Business in EDEM Escurla de Empresarios.
+
+
+[Linkedin](https://www.linkedin.com/in/ramon-casans-camp-435547196/)
+
+Mail:  raconcasans@gmail.com
