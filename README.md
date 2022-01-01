@@ -8,7 +8,8 @@
 
 
 ### :computer:My Computer:
-![Docker](https://img.shields.io/badge/Lenovo-Yoga_7-E2231A?style=for-the-badge&logo=Lenovo&logoColor=white)![Docker](https://img.shields.io/badge/Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)![Docker](https://img.shields.io/badge/16GB_ram_512gb-grey?style=for-the-badge&logo=&logoColor=)
+![Docker](https://img.shields.io/badge/Lenovo-Yoga_7-E2231A?style=for-the-badge&logo=Lenovo&logoColor=white)![Docker](https://img.shields.io/badge/Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
 ### :book:Currently learning:
 ![Docker](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)![Docker](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)![Docker](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
