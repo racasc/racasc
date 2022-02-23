@@ -9,4 +9,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Ramon_Casans_Camp-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramon-casans-camp/)](https://www.linkedin.com/in/ramon-casans-camp/) 
 
 [
-![Gmail](https://img.shields.io/badge/gmail-raconcasans@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&linkmalito:raconcasans@gmail.com)](raconcasans@gmail.com)         
+![Gmail](https://img.shields.io/badge/gmail-casacamp99@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&linkmalito:casacamp99@gmail.com)](casacamp99@gmail.com)         
